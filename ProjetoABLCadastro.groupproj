@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{FBB41C99-7DBE-4C68-83DF-67D833DFBA9D}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="VCL_XData_Server.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ABLCadastro.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="VCL_XData_Server">
+        <MSBuild Projects="VCL_XData_Server.dproj"/>
+    </Target>
+    <Target Name="VCL_XData_Server:Clean">
+        <MSBuild Projects="VCL_XData_Server.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="VCL_XData_Server:Make">
+        <MSBuild Projects="VCL_XData_Server.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ABLCadastro">
+        <MSBuild Projects="ABLCadastro.dproj"/>
+    </Target>
+    <Target Name="ABLCadastro:Clean">
+        <MSBuild Projects="ABLCadastro.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ABLCadastro:Make">
+        <MSBuild Projects="ABLCadastro.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="VCL_XData_Server;ABLCadastro"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="VCL_XData_Server:Clean;ABLCadastro:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="VCL_XData_Server:Make;ABLCadastro:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

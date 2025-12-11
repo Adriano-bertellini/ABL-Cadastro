@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/12/10 23:05:53.171,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Server.pas</Transaction>
+    <Transaction>2025/12/10 23:05:53.339,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\ConnectionModule.pas</Transaction>
+    <Transaction>2025/12/10 23:05:54.123,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\MainForm.pas</Transaction>
+    <Transaction>2025/12/10 23:06:22.751,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/12/10 23:07:59.327,C:\ABL Cadastro\MainForm.dfm=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\MainForm.dfm</Transaction>
+    <Transaction>2025/12/10 23:07:59.327,C:\ABL Cadastro\MainForm.pas=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\MainForm.pas</Transaction>
+    <Transaction>2025/12/10 23:08:05.421,C:\ABL Cadastro\ConnectionModule.dfm=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\ConnectionModule.dfm</Transaction>
+    <Transaction>2025/12/10 23:08:05.421,C:\ABL Cadastro\ConnectionModule.pas=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\ConnectionModule.pas</Transaction>
+    <Transaction>2025/12/10 23:08:07.113,C:\ABL Cadastro\Server.pas=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Server.pas</Transaction>
+    <Transaction>2025/12/10 23:08:09.719,C:\ABL Cadastro\VCL_XData_Server.dproj=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\VCL_XData_Server.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
