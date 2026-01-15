@@ -2,15 +2,16 @@ program ABLCadastro;
 
 uses
   Vcl.Forms,
-  Core.EntityUsuario in 'Core\Core.EntityUsuario.pas',
-  uFormMain in 'View\uFormMain.pas' {Form1},
-  uLogin in 'View\uLogin.pas' {FormLogin};
+  uFormMain in 'View\uFormMain.pas' {FormMain},
+  uLogin in 'View\uLogin.pas' {FormLogin},
+  App.Config in 'R:\ABL-Cadastro\Infrastructure\App.Config.pas';
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TFormMain, FormMain);
   Application.Run;
 end.
+

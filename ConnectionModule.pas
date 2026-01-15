@@ -35,6 +35,9 @@ uses
   XData.Aurelius.ConnectionPool,
   Aurelius.Drivers.Base;
 
+const
+  AureliusTmsXDataUrl : string = 'http://server:2001/tms/xdata';
+
 {$R *.dfm}
 
 { TMyConnectionModule }
