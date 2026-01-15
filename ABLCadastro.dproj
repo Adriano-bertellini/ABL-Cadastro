@@ -83,6 +83,9 @@
         <AppEnableHighDPI>true</AppEnableHighDPI>
         <AppEnableRuntimeThemes>true</AppEnableRuntimeThemes>
         <DCC_RemoteDebug>false</DCC_RemoteDebug>
+        <DCC_UnitSearchPath>$(PROJECTDIR)\Core;R:\ABL-Cadastro\Core;R:\ABL-Cadastro\Infrastructure\;$(DCC_UnitSearchPath)</DCC_UnitSearchPath>
+        <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
+        <VerInfo_Locale>1033</VerInfo_Locale>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2)'!=''">
         <DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
@@ -98,15 +101,13 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="Core\Core.EntityUsuario.pas"/>
         <DCCReference Include="View\uFormMain.pas">
-            <Form>Form1</Form>
-            <FormType>dfm</FormType>
+            <Form>FormMain</Form>
         </DCCReference>
         <DCCReference Include="View\uLogin.pas">
             <Form>FormLogin</Form>
-            <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="Infrastructure\App.Config.pas"/>
         <None Include="ModelSupport_ABLCadastro\default.txaPackage"/>
         <None Include="ModelSupport_ABLCadastro\default.txvpck"/>
         <None Include="ModelSupport_ABLCadastro\uFormMain\default.txvpck"/>
@@ -133,6 +134,10 @@
                 <Source>
                     <Source Name="MainSource">ABLCadastro.dpr</Source>
                 </Source>
+                <Excluded_Packages>
+                    <Excluded_Packages Name="$(BDSBIN)\dcloffice2k250.bpl">Microsoft Office 2000 Sample Automation Server Wrapper Components</Excluded_Packages>
+                    <Excluded_Packages Name="$(BDSBIN)\dclofficexp250.bpl">Microsoft Office XP Sample Automation Server Wrapper Components</Excluded_Packages>
+                </Excluded_Packages>
             </Delphi.Personality>
             <Deployment Version="3">
                 <DeployFile LocalName="Win32\Debug\ABLCadastro.exe" Configuration="Debug" Class="ProjectOutput">

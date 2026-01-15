@@ -6,7 +6,7 @@ uses
   ConnectionModule in 'ConnectionModule.pas' {FireDacFirebird3Connection: TDataModule},
   MainForm in 'MainForm.pas' {fmServer},
   MyService in 'MyService.pas',
-  uEntityUsuario in 'uEntityUsuario.pas';
+  Core.Entities.Usuario in 'R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas';
 
 {$R *.res}
 
