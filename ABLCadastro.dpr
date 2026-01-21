@@ -4,7 +4,7 @@ uses
   Vcl.Forms,
   uFormMain in 'View\uFormMain.pas' {FormMain},
   uLogin in 'View\uLogin.pas' {FormLogin},
-  App.Config in 'R:\ABL-Cadastro\Infrastructure\App.Config.pas';
+  App.Config in 'Infrastructure\App.Config.pas';
 
 {$R *.res}
 

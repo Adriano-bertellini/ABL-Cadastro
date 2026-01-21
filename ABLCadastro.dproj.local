@@ -7,41 +7,59 @@
     <Transaction>2025/12/03 02:18:54.000.475,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2025/12/03 02:24:22.000.431,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2025/12/10 23:06:35.000.647,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/12/10 23:07:32.000.300,C:\ABL Cadastro\uFormMain.pas=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/12/10 23:07:32.000.300,C:\ABL Cadastro\uFormMain.dfm=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2025/12/10 23:08:15.000.165,C:\ABL Cadastro\ABLCadastro.dproj=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/12/10 23:07:32.000.300,C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\ABL Cadastro\uFormMain.pas</Transaction>
+    <Transaction>2025/12/10 23:07:32.000.300,C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\ABL Cadastro\uFormMain.dfm</Transaction>
+    <Transaction>2025/12/10 23:08:15.000.165,C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\ABL Cadastro\ABLCadastro.dproj</Transaction>
     <Transaction>2025/12/11 00:29:30.000.122,=C:\ABL Cadastro\Unit1.pas</Transaction>
-    <Transaction>2025/12/11 00:29:37.000.217,C:\ABL Cadastro\uLogin.pas=C:\ABL Cadastro\Unit1.pas</Transaction>
+    <Transaction>2025/12/11 00:29:37.000.217,C:\ABL Cadastro\Unit1.pas=C:\ABL Cadastro\uLogin.pas</Transaction>
     <Transaction>2025/12/11 00:34:21.000.921,=C:\ABL Cadastro\Unit2.pas</Transaction>
-    <Transaction>2025/12/11 00:34:27.000.999,C:\ABL Cadastro\uLogin.dfm=C:\ABL Cadastro\Unit2.dfm</Transaction>
-    <Transaction>2025/12/11 00:34:27.000.999,C:\ABL Cadastro\uLogin.pas=C:\ABL Cadastro\Unit2.pas</Transaction>
+    <Transaction>2025/12/11 00:34:27.000.999,C:\ABL Cadastro\Unit2.dfm=C:\ABL Cadastro\uLogin.dfm</Transaction>
+    <Transaction>2025/12/11 00:34:27.000.999,C:\ABL Cadastro\Unit2.pas=C:\ABL Cadastro\uLogin.pas</Transaction>
     <Transaction>2025/12/11 00:52:23.000.857,=C:\ABL Cadastro\ModelSupport_ABLCadastro\default.txaPackage</Transaction>
     <Transaction>2025/12/11 00:52:28.000.053,=C:\ABL Cadastro\ModelSupport_ABLCadastro\default.txvpck</Transaction>
-    <Transaction>2025/12/11 00:52:32.000.558,=C:\ABL Cadastro\ModelSupport_ABLCadastro\ABLCadastro\default.txvpck</Transaction>
     <Transaction>2025/12/11 00:52:32.000.529,=C:\ABL Cadastro\ModelSupport_ABLCadastro\uFormMain\default.txvpck</Transaction>
+    <Transaction>2025/12/11 00:52:32.000.558,=C:\ABL Cadastro\ModelSupport_ABLCadastro\ABLCadastro\default.txvpck</Transaction>
     <Transaction>2025/12/11 00:52:34.000.084,=C:\ABL Cadastro\ModelSupport_ABLCadastro\uLogin\default.txvpck</Transaction>
     <Transaction>2025/12/11 01:34:48.000.177,=C:\ABL Cadastro\uEntityUsuario.pas</Transaction>
     <Transaction>2025/12/11 01:39:05.000.136,=C:\ABL Cadastro\ModelSupport_ABLCadastro\uEntityUsuario\default.txaPackage</Transaction>
-    <Transaction>2026/01/15 15:15:34.971,=R:\ABL-Cadastro\Unit1.pas</Transaction>
-    <Transaction>2026/01/15 15:23:10.064,=R:\ABL-Cadastro\Core\uEntityUsuario.pas</Transaction>
-    <Transaction>2026/01/15 15:27:17.248,=R:\ABL-Cadastro\View\uFormMain.pas</Transaction>
-    <Transaction>2026/01/15 15:27:17.637,=R:\ABL-Cadastro\View\uLogin.pas</Transaction>
-    <Transaction>2026/01/15 15:33:08.314,R:\ABL-Cadastro\Core\Core.EntityUsuario.pas=R:\ABL-Cadastro\Core\uEntityUsuario.pas</Transaction>
-    <Transaction>2026/01/15 15:36:44.754,R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas=R:\ABL-Cadastro\Core\Core.EntityUsuario.pas</Transaction>
-    <Transaction>2026/01/15 15:49:04.984,=R:\ABL-Cadastro\Unit1.pas</Transaction>
-    <Transaction>2026/01/15 15:49:21.149,R:\ABL-Cadastro\App.Config.pas=R:\ABL-Cadastro\Unit1.pas</Transaction>
-    <Transaction>2026/01/15 15:49:44.196,=R:\ABL-Cadastro\Infrastructure\App.Config.pas</Transaction>
-    <Transaction>2026/01/15 16:31:31.634,=R:\ABL-Cadastro\Unit1.pas</Transaction>
-    <Transaction>2026/01/15 16:31:42.495,R:\ABL-Cadastro\Core.Entities.Login.pas=R:\ABL-Cadastro\Unit1.pas</Transaction>
-    <Transaction>2026/01/15 16:35:49.937,=R:\ABL-Cadastro\Unit1.pas</Transaction>
-    <Transaction>2026/01/15 16:35:59.633,R:\ABL-Cadastro\Auth.Service.pas=R:\ABL-Cadastro\Unit1.pas</Transaction>
+    <Transaction>2026/01/15 15:15:34.000.971,=R:\ABL-Cadastro\Unit1.pas</Transaction>
+    <Transaction>2026/01/15 15:23:10.000.064,=R:\ABL-Cadastro\Core\uEntityUsuario.pas</Transaction>
+    <Transaction>2026/01/15 15:27:17.000.248,=R:\ABL-Cadastro\View\uFormMain.pas</Transaction>
+    <Transaction>2026/01/15 15:27:17.000.637,=R:\ABL-Cadastro\View\uLogin.pas</Transaction>
+    <Transaction>2026/01/15 15:33:08.000.314,R:\ABL-Cadastro\Core\uEntityUsuario.pas=R:\ABL-Cadastro\Core\Core.EntityUsuario.pas</Transaction>
+    <Transaction>2026/01/15 15:36:44.000.754,R:\ABL-Cadastro\Core\Core.EntityUsuario.pas=R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas</Transaction>
+    <Transaction>2026/01/15 15:49:04.000.984,=R:\ABL-Cadastro\Unit1.pas</Transaction>
+    <Transaction>2026/01/15 15:49:21.000.149,R:\ABL-Cadastro\Unit1.pas=R:\ABL-Cadastro\App.Config.pas</Transaction>
+    <Transaction>2026/01/15 15:49:44.000.196,=R:\ABL-Cadastro\Infrastructure\App.Config.pas</Transaction>
+    <Transaction>2026/01/15 16:31:31.000.634,=R:\ABL-Cadastro\Unit1.pas</Transaction>
+    <Transaction>2026/01/15 16:31:42.000.495,R:\ABL-Cadastro\Unit1.pas=R:\ABL-Cadastro\Core.Entities.Login.pas</Transaction>
+    <Transaction>2026/01/15 16:35:49.000.937,=R:\ABL-Cadastro\Unit1.pas</Transaction>
+    <Transaction>2026/01/15 16:35:59.000.633,R:\ABL-Cadastro\Unit1.pas=R:\ABL-Cadastro\Auth.Service.pas</Transaction>
+    <Transaction>2026/01/15 17:40:42.000.800,=R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas</Transaction>
+    <Transaction>2026/01/15 17:42:33.000.973,R:\ABL-Cadastro\ABLCadastro.dproj=R:\ABL-Cadastro\ABLCadastro.dproj</Transaction>
+    <Transaction>2026/01/15 17:42:34.000.172,=R:\ABL-Cadastro\ModelSupport_ABLCadastro\Core\default.txaPackage</Transaction>
+    <Transaction>2026/01/15 17:42:34.000.203,=R:\ABL-Cadastro\ModelSupport_ABLCadastro\App\default.txaPackage</Transaction>
+    <Transaction>2026/01/15 17:43:12.000.976,=R:\ABL-Cadastro\Auth.Service.pas</Transaction>
+    <Transaction>2026/01/15 17:43:13.000.016,=R:\ABL-Cadastro\Core.Entities.Login.pas</Transaction>
+    <Transaction>2026/01/20 11:54:40.000.255,R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas=</Transaction>
+    <Transaction>2026/01/20 14:23:56.000.646,=R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas</Transaction>
+    <Transaction>2026/01/20 15:04:00.000.460,R:\ABL-Cadastro\Auth.Service.pas=</Transaction>
+    <Transaction>2026/01/20 15:05:25.000.820,R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas=</Transaction>
+    <Transaction>2026/01/20 15:05:53.000.072,R:\ABL-Cadastro\Core.Entities.Login.pas=</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5"/>
-	</ActiveMobileDevice>  <ProjectSortOrder AutoSort="0" SortType="0">
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Infrastructure"/>
+    <File Path="Infrastructure\App.Config.pas"/>
     <File Path="ModelSupport_ABLCadastro"/>
     <File Path="ModelSupport_ABLCadastro\ABLCadastro"/>
     <File Path="ModelSupport_ABLCadastro\ABLCadastro\default.txvpck"/>
+    <File Path="ModelSupport_ABLCadastro\App"/>
+    <File Path="ModelSupport_ABLCadastro\App\default.txaPackage"/>
+    <File Path="ModelSupport_ABLCadastro\Core"/>
+    <File Path="ModelSupport_ABLCadastro\Core\default.txaPackage"/>
     <File Path="ModelSupport_ABLCadastro\uEntityUsuario"/>
     <File Path="ModelSupport_ABLCadastro\uEntityUsuario\default.txaPackage"/>
     <File Path="ModelSupport_ABLCadastro\uFormMain"/>
@@ -50,16 +68,10 @@
     <File Path="ModelSupport_ABLCadastro\uLogin\default.txvpck"/>
     <File Path="ModelSupport_ABLCadastro\default.txaPackage"/>
     <File Path="ModelSupport_ABLCadastro\default.txvpck"/>
-    <File Path="Core"/>
-    <File Path="Core\Core.Entities.Usuario.pas"/>
     <File Path="View"/>
     <File Path="View\uFormMain.pas"/>
     <File Path="View\uFormMain.dfm"/>
     <File Path="View\uLogin.pas"/>
     <File Path="View\uLogin.dfm"/>
-    <File Path="Infrastructure"/>
-    <File Path="Infrastructure\App.Config.pas"/>
-    <File Path="Core.Entities.Login.pas"/>
-    <File Path="Auth.Service.pas"/>
   </ProjectSortOrder>
 </BorlandProject>
