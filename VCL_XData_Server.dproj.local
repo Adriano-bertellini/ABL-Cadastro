@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2025/12/10 23:05:53.000.171,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Server.pas</Transaction>
     <Transaction>2025/12/10 23:05:53.000.339,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\ConnectionModule.pas</Transaction>
+    <Transaction>2025/12/10 23:05:53.000.171,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Server.pas</Transaction>
     <Transaction>2025/12/10 23:05:54.000.123,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\MainForm.pas</Transaction>
     <Transaction>2025/12/10 23:06:22.000.751,=C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2025/12/10 23:07:59.000.327,C:\Users\Adriano Bertellini\Documents\Embarcadero\Studio\Projects\MainForm.pas=C:\ABL Cadastro\MainForm.pas</Transaction>
@@ -15,5 +15,19 @@
     <Transaction>2025/12/11 00:28:53.000.024,C:\ABL Cadastro\Unit1.pas=C:\ABL Cadastro\MyService.pas</Transaction>
     <Transaction>2025/12/11 00:45:24.000.374,=C:\ABL Cadastro\Unit1.pas</Transaction>
     <Transaction>2025/12/11 00:47:06.000.441,C:\ABL Cadastro\Unit1.pas=C:\ABL Cadastro\uEntityUsuario.pas</Transaction>
+    <Transaction>2026/01/15 17:42:46.000.597,R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas=</Transaction>
+    <Transaction>2026/01/20 11:54:29.000.641,=R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas</Transaction>
+    <Transaction>2026/01/20 14:24:50.000.905,R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas=</Transaction>
+    <Transaction>2026/01/20 14:31:15.000.104,=R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas</Transaction>
+    <Transaction>2026/01/20 14:43:32.000.626,=R:\ABL-Cadastro\Server\ConnectionModule.pas</Transaction>
+    <Transaction>2026/01/20 14:43:33.000.712,=R:\ABL-Cadastro\Server\Server.pas</Transaction>
+    <Transaction>2026/01/20 14:43:33.000.681,=R:\ABL-Cadastro\Server\MyService.pas</Transaction>
+    <Transaction>2026/01/20 14:43:33.000.652,=R:\ABL-Cadastro\Server\MainForm.pas</Transaction>
+    <Transaction>2026/01/20 14:44:32.000.210,R:\ABL-Cadastro\Server\MainForm.pas=</Transaction>
+    <Transaction>2026/01/20 14:44:32.000.163,R:\ABL-Cadastro\Server\ConnectionModule.pas=</Transaction>
+    <Transaction>2026/01/20 14:45:29.000.359,=R:\ABL-Cadastro\Server\ConnectionModule.pas</Transaction>
+    <Transaction>2026/01/20 14:45:47.000.015,=R:\ABL-Cadastro\Server\MainForm.pas</Transaction>
+    <Transaction>2026/01/20 15:02:01.000.717,=R:\ABL-Cadastro\Unit1.pas</Transaction>
+    <Transaction>2026/01/20 15:02:45.000.451,=R:\ABL-Cadastro\Services\Auth.Service.pas</Transaction>
   </Transactions>
 </BorlandProject>

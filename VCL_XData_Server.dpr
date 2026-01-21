@@ -2,11 +2,12 @@ program VCL_XData_Server;
 
 uses
   Vcl.Forms,
-  Server in 'Server.pas',
-  ConnectionModule in 'ConnectionModule.pas' {FireDacFirebird3Connection: TDataModule},
-  MainForm in 'MainForm.pas' {fmServer},
-  MyService in 'MyService.pas',
-  Core.Entities.Usuario in 'R:\ABL-Cadastro\Core\Core.Entities.Usuario.pas';
+  Core.Entities.Usuario in 'Core\Core.Entities.Usuario.pas',
+  Server in 'Server\Server.pas',
+  ConnectionModule in 'Server\ConnectionModule.pas' {FireDacFirebird3Connection: TDataModule},
+  MyService in 'Server\MyService.pas',
+  MainForm in 'Server\MainForm.pas' {fmServer},
+  Auth.Service in 'Services\Auth.Service.pas';
 
 {$R *.res}
 
